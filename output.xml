@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShippingNotifications>
+  <ShippingNotification>
+    <Header>
+      <ShipmentType>ASN</ShipmentType>
+      <DespatchNumber>2132</DespatchNumber>
+    </Header>
+    <MaterialPositions>
+      <MaterialPosition>
+        <CustomerNumber>0938590740000</CustomerNumber>
+        <DeliveryNoteNumber>W22004035</DeliveryNoteNumber>
+        <SinglePacks>
+          <SinglePack />
+        </SinglePacks>
+      </MaterialPosition>
+    </MaterialPositions>
+    <MaterialPositions>
+      <MaterialPosition>
+        <CustomerNumber>0938590740000</CustomerNumber>
+        <DeliveryNoteNumber>W22004035</DeliveryNoteNumber>
+        <SinglePacks>
+          <SinglePack />
+        </SinglePacks>
+      </MaterialPosition>
+    </MaterialPositions>
+  </ShippingNotification>
+</ShippingNotifications>

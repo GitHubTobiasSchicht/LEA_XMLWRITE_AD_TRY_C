@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShippingNotifications>
+ <ShippingNotification>
+  <Header>
+   <ShipmentType>ASN</ShipmentType>
+   <DespatchNumber>2132</DespatchNumber>
+   <DespatchDate>08.31.2022</DespatchDate>
+   <CustomerOrgCode>INA</CustomerOrgCode>
+   <CustomerPlant>0080</CustomerPlant>
+   <UnloadingPoint>TOR50</UnloadingPoint>
+   <SupplierNumber>00285604</SupplierNumber>
+   <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+   <Volume>0</Volume>
+   <TransportMode>30</TransportMode>
+   <WeightUoM>KGM</WeightUoM>
+   <LengthUoM>CMT</LengthUoM>
+   <VolumeUoM>CMQ</VolumeUoM>
+  </Header>
+  <MaterialPositions>
+   <MaterialPosition>
+    <CustomerNumber>0938590740000</CustomerNumber>
+    <DeliveryNoteNumber>W22004035</DeliveryNoteNumber>
+    <DeliveryNotePosition>1</DeliveryNotePosition>
+    <DeliveryQuantity>1259</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005263859</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>524568</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>2524.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201101-1,6X162-C75+QT</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-21-000015-009/1-21-010260/PNR.857</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100857</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>1259</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A21000015-9</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+   <MaterialPosition>
+    <CustomerNumber>0938590740000</CustomerNumber>
+    <DeliveryNoteNumber>W22004035</DeliveryNoteNumber>
+    <DeliveryNotePosition>2</DeliveryNotePosition>
+    <DeliveryQuantity>1265</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005263859</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>524568</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>2524.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201101-1,6X162-C75+QT</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-21-000015-009/1-21-010260/PNR.858</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100858</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>1265</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A21000015-9</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+   <MaterialPosition>
+    <CustomerNumber>0695041130000</CustomerNumber>
+    <DeliveryNoteNumber>W22004036</DeliveryNoteNumber>
+    <DeliveryNotePosition>1</DeliveryNotePosition>
+    <DeliveryQuantity>1505</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005223967</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>722966</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>1505.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201103-0,4X243-C75+QT</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-21-000159-011/1-21-010274/PNR.864</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100864</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>1505</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A21000159-11</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+   <MaterialPosition>
+    <CustomerNumber>0519398270000</CustomerNumber>
+    <DeliveryNoteNumber>W22004037</DeliveryNoteNumber>
+    <DeliveryNotePosition>1</DeliveryNotePosition>
+    <DeliveryQuantity>1331</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005155832</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>080497</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>1331.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201101-0,6X161-C75S</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-21-000556-003/1-21-003352/PNR.667</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100667</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>1331</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A21000556-3</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+   <MaterialPosition>
+    <CustomerNumber>0959861890000</CustomerNumber>
+    <DeliveryNoteNumber>W22004038</DeliveryNoteNumber>
+    <DeliveryNotePosition>1</DeliveryNotePosition>
+    <DeliveryQuantity>1647</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005318846</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>43474</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>1647.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201102-0,6X225-C75S</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-22-000130-002/1-22-000601/PNR.850</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100850</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>1647</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A22000130-1</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+   <MaterialPosition>
+    <CustomerNumber>0959861890000</CustomerNumber>
+    <DeliveryNoteNumber>W22004038</DeliveryNoteNumber>
+    <DeliveryNotePosition>2</DeliveryNotePosition>
+    <DeliveryQuantity>2055</DeliveryQuantity>
+    <DeliveryQuantityUom>KGM</DeliveryQuantityUom>
+    <OrderNumber>0005318846</OrderNumber>
+    <OrderPosition>10</OrderPosition>
+    <BatchNumber>43474</BatchNumber>
+    <CountryOfOrigin>DE</CountryOfOrigin>
+    <SecurityFlag>N</SecurityFlag>
+    <DutiableGoods>false</DutiableGoods>
+    <DeliveryDateTime>09.02.2022 00:00</DeliveryDateTime>
+    <MaterialNetWeight>2055.000</MaterialNetWeight>
+    <CustomerDescription>BD 081201102-0,6X225-C75S</CustomerDescription>
+    <MaterialGrossWeight />
+    <SupplierNumber>A-22-000130-002/1-22-000601/PNR.855</SupplierNumber>
+    <BGMCode>241</BGMCode>
+    <SinglePacks>
+     <SinglePack>
+      <OneLevelPacking>true</OneLevelPacking>
+      <LabelType>S</LabelType>
+      <LabelNumberFrom>101100855</LabelNumberFrom>
+      <PackageQuantity>1</PackageQuantity>
+      <QuantityInPackage>2055</QuantityInPackage>
+      <CustomerNumber>0922187090000</CustomerNumber>
+      <SupplierNumber>A22000130-2</SupplierNumber>
+      <TareWeight>9140.000</TareWeight>
+      <GrossWeight>9140.000</GrossWeight>
+      <PackageType>PE</PackageType>
+     </SinglePack>
+    </SinglePacks>
+   </MaterialPosition>
+  </MaterialPositions>
+  <HandlingUnitPositions>
+   <HandlingUnit>
+    <CustomerNumber>A21000015-9</CustomerNumber>
+   </HandlingUnit>
+  </HandlingUnitPositions>
+ </ShippingNotification>
+</ShippingNotifications>
